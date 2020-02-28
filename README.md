@@ -9,14 +9,15 @@ Like this project? Please considering [sponsoring me](https://github.com/sponsor
 ---
 
 <!-- vim-markdown-toc GFM -->
+*brief summaries in italic*
 
 * [Introduction](#introduction)
 * [Laws](#laws)
-    * [Amdahl's Law](#amdahls-law)
-    * [The Broken Windows Theory](#the-broken-windows-theory)
-    * [Brooks' Law](#brooks-law)
-    * [Conway's Law](#conways-law)
-    * [Cunningham's Law](#cunninghams-law)
+    * [Amdahl's Law](#amdahls-law) *There's a limit to how much speed up parallelism can acheive.*
+    * [The Broken Windows Theory](#the-broken-windows-theory) *Messy code begets messier and sloppier code.*
+    * [Brooks' Law](#brooks-law) *Adding developers has a short-term cost to velocity.*
+    * [Conway's Law](#conways-law) *A codebase will reflect the structure of the organization writing it.*
+    * [Cunningham's Law](#cunninghams-law) *The best way to get the right answer on the Internet is to post the wrong answer rather than a question.*
     * [Dunbar's Number](#dunbars-number)
     * [Gall's Law](#galls-law)
     * [Goodhart's Law](#goodharts-law)
