@@ -17,7 +17,7 @@ Like this project? Please considering [sponsoring me](https://github.com/sponsor
     * [The Broken Windows Theory](#the-broken-windows-theory) *Messy code begets messier and sloppier code.*
     * [Brooks' Law](#brooks-law) *Adding developers has a short-term cost to velocity.*
     * [Conway's Law](#conways-law) *A codebase will reflect the structure of the organization writing it.*
-    * [Cunningham's Law](#cunninghams-law) *The best way to get the right answer on the Internet is to post the wrong answer rather than a question.*
+    * [Cunningham's Law](#cunninghams-law) *The internet prefers correcting people over answering questions.*
     * [Dunbar's Number](#dunbars-number)
     * [Gall's Law](#galls-law)
     * [Goodhart's Law](#goodharts-law)
