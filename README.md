@@ -9,9 +9,8 @@ Like this project? Please considering [sponsoring me](https://github.com/sponsor
 ---
 
 <!-- vim-markdown-toc GFM -->
-*brief summaries in italic*
 
-* [Introduction](#introduction)
+* [Introduction](#introduction) (*brief summaries in italic*)
 * [Laws](#laws)
     * [Amdahl's Law](#amdahls-law) *There's a limit to how much speed up parallelism can acheive.*
     * [The Broken Windows Theory](#the-broken-windows-theory) *Messy code begets messier and sloppier code.*
