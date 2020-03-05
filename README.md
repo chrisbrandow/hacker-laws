@@ -12,16 +12,16 @@ Like this project? Please considering [sponsoring me](https://github.com/sponsor
 
 * [Introduction](#introduction) (*brief summaries in italic*)
 * [Laws](#laws)
-    * [Amdahl's Law](#amdahls-law) *There's a limit to how much speed up parallelism can acheive.*
-    * [The Broken Windows Theory](#the-broken-windows-theory) *Messy code begets messier and sloppier code.*
-    * [Brooks' Law](#brooks-law) *Adding developers has a short-term cost to velocity.*
-    * [Conway's Law](#conways-law) *A codebase will reflect the structure of the organization writing it.*
-    * [Cunningham's Law](#cunninghams-law) *The internet prefers correcting people over answering questions.*
-    * [Dunbar's Number](#dunbars-number)
-    * [Gall's Law](#galls-law)
-    * [Goodhart's Law](#goodharts-law)
-    * [Hanlon's Razor](#hanlons-razor)
-    * [Hofstadter's Law](#hofstadters-law)
+    * [Amdahl's Law](#amdahls-law) -- *There's a limit to how much parallelism can speed things up.*
+    * [The Broken Windows Theory](#the-broken-windows-theory) -- *Messy code begets messier and sloppier code.*
+    * [Brooks' Law](#brooks-law) -- *Adding developers has a short-term cost to velocity.*
+    * [Conway's Law](#conways-law) -- *A codebase will reflect the structure of the organization writing it.*
+    * [Cunningham's Law](#cunninghams-law) -- *The internet prefers correcting people over answering questions.*
+    * [Dunbar's Number](#dunbars-number) -- *The number of working relationships one can maintain has an upper limit*
+    * [Gall's Law](#galls-law) -- *Successful, complex systems must begin as simple, successful systems*
+    * [Goodhart's Law](#goodharts-law) -- *Optimizing for indicators of success causes the indicators to cease functioning*
+    * [Hanlon's Razor](#hanlons-razor) -- *"Never attribute to malice that which is adequately explained by stupidity."*
+    * [Hofstadter's Law](#hofstadters-law) -- *An estimate that tries to overestimate remaining time will still underestimate*
     * [Hutber's Law](#hutbers-law)
     * [The Hype Cycle & Amara's Law](#the-hype-cycle--amaras-law)
     * [Hyrum's Law (The Law of Implicit Interfaces)](#hyrums-law-the-law-of-implicit-interfaces)
